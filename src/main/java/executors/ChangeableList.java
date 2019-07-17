@@ -1,4 +1,4 @@
-package main.java.objects;
+package main.java.executors;
 
 import main.java.interfaces.Changeable;
 

@@ -4,7 +4,7 @@ import main.java.enums.MovieGenre;
 import main.java.executors.ListGenerator;
 import main.java.executors.ListHandler;
 import main.java.objects.Box;
-import main.java.objects.ChangeableList;
+import main.java.executors.ChangeableList;
 import main.java.objects.Movie;
 import main.java.objects.User;
 
